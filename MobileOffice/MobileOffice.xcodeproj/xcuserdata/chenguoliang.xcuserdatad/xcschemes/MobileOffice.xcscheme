@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D83944AF1DC2046B00A40E62"
-               BuildableName = "Mobile Office.app"
-               BlueprintName = "Mobile Office"
-               ReferencedContainer = "container:Mobile Office.xcodeproj">
+               BlueprintIdentifier = "D83944D21DC2089900A40E62"
+               BuildableName = "MobileOffice.app"
+               BlueprintName = "MobileOffice"
+               ReferencedContainer = "container:MobileOffice.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D83944AF1DC2046B00A40E62"
-            BuildableName = "Mobile Office.app"
-            BlueprintName = "Mobile Office"
-            ReferencedContainer = "container:Mobile Office.xcodeproj">
+            BlueprintIdentifier = "D83944D21DC2089900A40E62"
+            BuildableName = "MobileOffice.app"
+            BlueprintName = "MobileOffice"
+            ReferencedContainer = "container:MobileOffice.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D83944AF1DC2046B00A40E62"
-            BuildableName = "Mobile Office.app"
-            BlueprintName = "Mobile Office"
-            ReferencedContainer = "container:Mobile Office.xcodeproj">
+            BlueprintIdentifier = "D83944D21DC2089900A40E62"
+            BuildableName = "MobileOffice.app"
+            BlueprintName = "MobileOffice"
+            ReferencedContainer = "container:MobileOffice.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D83944AF1DC2046B00A40E62"
-            BuildableName = "Mobile Office.app"
-            BlueprintName = "Mobile Office"
-            ReferencedContainer = "container:Mobile Office.xcodeproj">
+            BlueprintIdentifier = "D83944D21DC2089900A40E62"
+            BuildableName = "MobileOffice.app"
+            BlueprintName = "MobileOffice"
+            ReferencedContainer = "container:MobileOffice.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

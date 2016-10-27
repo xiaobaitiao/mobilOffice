@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Mobile Office.xcscheme</key>
+		<key>MobileOffice.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>D83944AF1DC2046B00A40E62</key>
+		<key>D83944D21DC2089900A40E62</key>
 		<dict>
 			<key>primary</key>
 			<true/>
